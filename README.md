@@ -35,5 +35,19 @@ This app supports **three modes of sentiment analysis**:
 - nltk (text preprocessing)
 - Twitter API / Nitter Scraper (for tweet fetching)
 
+## 📸 Screenshots
+![Screenshot 2025-04-10 011528](https://github.com/user-attachments/assets/b8200166-a95d-423d-a18e-1bae67b51337)
+![Screenshot 2025-04-10 011737](https://github.com/user-attachments/assets/963b251b-2dd5-4319-9799-336d3504610e)
+![Screenshot 2025-04-10 011855](https://github.com/user-attachments/assets/bf4ad2b8-de3c-415b-969b-88031f9f73bb)
+![Screenshot 2025-04-10 012242](https://github.com/user-attachments/assets/b3aabe7d-07a3-4e0b-8484-1962bee38b5c)
+
+
+
+
+
+
+
+
+
 
 
